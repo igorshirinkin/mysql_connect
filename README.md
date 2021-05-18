@@ -1,6 +1,6 @@
 # MySQL connection with Python
 MySQL connection training.
-## Instalation
+## Installation
 ```bash
 $ python3 -m pip install PyMySQL
 ```
